@@ -9,4 +9,4 @@ description= "A simple calculator"
 requires-python= ">=3.9"
 
 [tool.setuptools]
-py-module= ["calci, testclci"]
+py-module= ["calci"]
